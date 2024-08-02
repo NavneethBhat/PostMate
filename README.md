@@ -1,1 +1,1 @@
-# Projects
+Postmate is an application which is created for the use of an automated system all over the country. Post office administration provides depositors who do not have access to banks a safe and convenient method to save money. This project helps in maintaining the transactions that takes place in the postal. 
